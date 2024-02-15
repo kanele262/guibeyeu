@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Có yêu toy khômmm 😙',
     desc: 'Không trả lời là giận ó ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    btnYes: 'Vẫn cứ là yêu anh <33',
     btnNo: 'Không, anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bbi lại yêu toy <3',
     btnReply: 'Gửi cho toy <3',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Toy biết mà 🥰. Yêu Uyenn nhiều nhiều 😘😘',
     messDesc: 'Chúc chị pé năm mới ngày càng xênh xĩu <333',
     btnAccept: 'Ỏoooooo <3',
-    messLink: 'https://kanele262.github.io/addweb/'
+    webLink: 'https://kanele262.github.io/addweb/'
 }
