@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Toy biết mà 🥰. Yêu Uyenn nhiều nhiều 😘😘',
     messDesc: 'Chúc chị pé năm mới ngày càng xênh xĩu <333',
     btnAccept: 'Ỏoooooo <3',
-    webLink: 'https://kanele262.github.io/addweb/'
+    messLink: 'https://kanele262.github.io/addweb/'
 }
