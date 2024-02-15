@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Toy biết mà 🥰. Yêu Uyenn nhiều nhiều 😘😘',
     messDesc: 'Chúc chị pé năm mới ngày càng xênh xĩu <333',
-    btnAccept: 'Ỏoooooo <3',
+    btnAccept: 'P-pháo hoa nè <3',
     messLink: 'https://kanele262.github.io/addweb/'
 }
