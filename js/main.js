@@ -18,8 +18,6 @@ function init(){
 }
 
 function firstQuestion(){
-    var audio = new Audio('y2mate.bz - o.lew-x-ngắn-vườn-hoa-con-cá-official-mv.mp3');
-    audio.play();
     $('.content').hide();
     Swal.fire({
         title: CONFIG.introTitle,
