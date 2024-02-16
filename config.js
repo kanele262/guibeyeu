@@ -15,7 +15,3 @@ const CONFIG = {
     btnAccept: 'P-pháo hoa nè <3',
     messLink: 'https://kanele262.github.io/addweb/'
 }
-var backgroundMusic = document.getElementById("song")
-if (backgroundMusic.paused) {
-        backgroundMusic.play()
-}
