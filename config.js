@@ -15,3 +15,11 @@ const CONFIG = {
     btnAccept: 'P-pháo hoa nè <3',
     messLink: 'https://kanele262.github.io/addweb/'
 }
+var backgroundMusic = document.getElementById("song");
+if (backgroundMusic.canPlayType) {
+        // Cập nhật đường dẫn đến file nhạc
+        backgroundMusic.src = "y2matebz-olew-x-ngan-vuon-hoa-con-ca-official-mv mp3.mp3";
+
+        // Bắt đầu phát nhạc
+        backgroundMusic.play();
+    }
